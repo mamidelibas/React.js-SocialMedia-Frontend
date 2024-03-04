@@ -1,0 +1,5 @@
+const btnElm = document.getElementById('btn');
+btnElm.addEventListener('click', () => {});
+
+
+$('#btn').on('click', () => {})
